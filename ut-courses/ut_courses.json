@@ -1,0 +1,529 @@
+[{
+    "prereqs_desc": "Mathematics 408C, 408K, or 408N with a grade of at least C-",
+    "prereqs": ["M 408C", "M 408K", "M 408N"],
+    "prereq_type": "Informer",
+    "title": "Integral Calculus",
+    "id": "M *08L"
+}, {
+    "prereqs_desc": "Mathematics 408L or 408S with a grade of at least C-",
+    "prereqs": ["M 408L", "M 408S"],
+    "prereq_type": "Informer",
+    "title": "Multivariable Calculus",
+    "id": "M *08M"
+}, {
+    "prereqs_desc": "Mathematics 302, 303D, 305G (or 505G), or 316 with a grade of at least C-",
+    "prereqs": ["M 302", "M 303D", "M 305G", "M 505G", "M 316"],
+    "prereq_type": "Informer",
+    "title": "Foundations of Arithmetic",
+    "id": "M 316K"
+}, {
+    "prereqs_desc": "Mathematics 316K with a grade of at least C",
+    "prereqs": ["M 316K"],
+    "prereq_type": "Informer",
+    "title": "Foundations of Geometry, Statistics, and Probability",
+    "id": "M 316L"
+}, {
+    "prereqs_desc": "Mathematics 408D, 408L, or 408S with a grade of at least C-",
+    "prereqs": ["M 408D", "M 408L", "M 408S"],
+    "prereq_type": "Informer",
+    "title": "Discrete Mathematics",
+    "id": "M 325K"
+}, {
+    "prereqs_desc": "Mathematics 408D, 408L, or 408S with a grade of at least C-",
+    "prereqs": ["M 408D", "M 408L", "M 408S"],
+    "prereq_type": "Informer",
+    "title": "Foundations of Number Systems",
+    "id": "M 326K"
+}, {
+    "prereqs_desc": "Mathematics 341 with a grade of at least C-",
+    "prereqs": ["M 341"],
+    "prereq_type": "Informer",
+    "title": "Introduction to Number Theory",
+    "id": "M 328K"
+}, {
+    "prereqs_desc": "Mathematics 408C, 408K, or 408N with a grade of at least C-",
+    "prereqs": ["M 408C", "M 408K", "M 408N"],
+    "prereq_type": "Informer",
+    "title": "Matrices and Matrix Calculations",
+    "id": "M 340L"
+}, {
+    "prereqs_desc": "Mathematics 408D or 408M with a grade of at least C-",
+    "prereqs": ["M 408D", "M 408M"],
+    "prereq_type": "Informer",
+    "title": "Linear Algebra and Matrix Theory",
+    "id": "M 341"
+}, {
+    "prereqs_desc": "Mathematics 328K or 343K with a grade of at least C-",
+    "prereqs": ["M 328K", "M 343K"],
+    "prereq_type": "Informer",
+    "title": "Applied Number Theory",
+    "id": "M 343L"
+}, {
+    "prereqs_desc": "Mathematics 328K or 341 with a grade of at least C-",
+    "prereqs": ["M 328K", "M 341"],
+    "prereq_type": "Informer",
+    "title": "Error-Correcting Codes",
+    "id": "M 343M"
+}, {
+    "prereqs_desc": "Philosophy 313, 313K, or 313Q",
+    "prereqs": ["PHL 313", "PHL 313K", "PHL 313Q"],
+    "prereq_type": "Informer",
+    "title": "Intermediate Symbolic Logic",
+    "id": "M 344K"
+}, {
+    "prereqs_desc": "Mathematics 341 or 340L with a grade of at least C-",
+    "prereqs": ["M 341", "M 340L"],
+    "prereq_type": "Informer",
+    "title": "Applied Linear Algebra",
+    "id": "M 346"
+}, {
+    "prereqs_desc": "Computer Science 303E or 307, and Mathematics 341 or 340L with a grade of at least C-",
+    "prereqs": ["C S 303E", "C S 307", "M 341", "M 340L"],
+    "prereq_type": "Informer",
+    "title": "Scientific Computation in Numerical Analysis",
+    "id": "M 348"
+}, {
+    "prereqs_desc": "Mathematics 339U, 341 or 340L, and 358K or 378K",
+    "prereqs": ["M 339U", "M 341", "M 340L", "M 358K", "M 378K"],
+    "prereq_type": "Informer",
+    "title": "Time Series and Survival-Model Estimation",
+    "id": "M 349T"
+}, {
+    "prereqs_desc": "Mathematics 362K with a grade of at least C-",
+    "prereqs": ["M 362K"],
+    "prereq_type": "Informer",
+    "title": "Applied Statistics",
+    "id": "M 358K"
+}, {
+    "prereqs_desc": "Mathematics 408D, 408L, or 408S with a grade of at least C-; and written consent of instructor",
+    "prereqs": ["M 408D", "M 408L", "M 408S"],
+    "prereq_type": "Informer",
+    "title": "Mathematics as Problem Solving",
+    "id": "M 360M"
+}, {
+    "prereqs_desc": "Mathematics 408D, 408L, or 408S with a grade of at least C-",
+    "prereqs": ["M 408D", "M 408L", "M 408S"],
+    "prereq_type": "Informer",
+    "title": "Probability I",
+    "id": "M 362K"
+}, {
+    "prereqs_desc": "Mathematics 362K with a grade of at least C-",
+    "prereqs": ["M 362K"],
+    "prereq_type": "Informer",
+    "title": "Introduction to Stochastic Processes",
+    "id": "M 362M"
+}, {
+    "prereqs_desc": "Mathematics 364K with a grade of at least C-",
+    "prereqs": ["M 364K"],
+    "prereq_type": "Informer",
+    "title": "Vector and Tensor Analysis II",
+    "id": "M 364L"
+}, {
+    "prereqs_desc": "Mathematics 365C with a grade of at least C-",
+    "prereqs": ["M 365C"],
+    "prereq_type": "Informer",
+    "title": "Real Analysis II",
+    "id": "M 365D"
+}, {
+    "prereqs_desc": "Credit with a grade of at least C- or registration for Mathematics 365C",
+    "prereqs": ["M 365C"],
+    "prereq_type": "Informer",
+    "title": "Curves and Surfaces",
+    "id": "M 365G"
+}, {
+    "prereqs_desc": "Mathematics 348 with a grade of at least C-",
+    "prereqs": ["M 348"],
+    "prereq_type": "Informer",
+    "title": "Numerical Methods for Applications",
+    "id": "M 368K"
+}, {
+    "prereqs_desc": "Mathematics 373K with a grade of at least C-",
+    "prereqs": ["M 373K"],
+    "prereq_type": "Informer",
+    "title": "Algebraic Structures II",
+    "id": "M 373L"
+}, {
+    "prereqs_desc": "Mathematics 374 with a grade of at least C-",
+    "prereqs": ["M 374"],
+    "prereq_type": "Informer",
+    "title": "Fourier and Laplace Transforms",
+    "id": "M 374K"
+}, {
+    "prereqs_desc": "Mathematics 362K with a grade of at least C-",
+    "prereqs": ["M 362K"],
+    "prereq_type": "Informer",
+    "title": "Introduction to Mathematical Statistics",
+    "id": "M 378K"
+}, {
+    "prereqs_desc": "Mathematics 408C, 408L, or 408S with a grade of at least C-",
+    "prereqs": ["M 408C", "M 408L", "M 408S"],
+    "prereq_type": "Informer",
+    "title": "Sequences, Series, and Multivariable Calculus",
+    "id": "M 408D"
+}, {
+    "prereqs_desc": "Mathematics 408C, 408K, or 408N with a grade of at least C-",
+    "prereqs": ["M 408C", "M 408K", "M 408N"],
+    "prereq_type": "Informer",
+    "title": "Integral Calculus for Science",
+    "id": "M 408S"
+}, {
+    "prereqs_desc": "Mathematics 408D, 408L, or 408S with a grade of at least C-",
+    "prereqs": ["M 408D", "M 408L", "M 408S"],
+    "prereq_type": "Informer",
+    "title": "Advanced Calculus for Applications I",
+    "id": "M 427K"
+}, {
+    "prereqs_desc": "Mathematics 408D or 408M with a grade of at least C-",
+    "prereqs": ["M 408D", "M 408M"],
+    "prereq_type": "Informer",
+    "title": "Advanced Calculus for Applications II",
+    "id": "M 427L"
+}, {
+    "prereqs_desc": "Mathematics 358K or 378K with a grade of at least C-.",
+    "prereqs": ["M 358K", "M 378K"],
+    "prereq_type": "Enforcer",
+    "title": "Probability Models with Actuarial Applications.",
+    "id": "M *39J"
+}, {
+    "prereqs_desc": "Actuarial Foundations 329 and Mathematics 339U with a grade of at least C- in each.",
+    "prereqs": ["ACF 329", "M 339U"],
+    "prereq_type": "Enforcer",
+    "title": "Actuarial Contingent Payments II.",
+    "id": "M *39V"
+}, {
+    "prereqs_desc": "Mathematics 339J, and 341 or 340L, with a grade of at least C- in each.",
+    "prereqs": ["M 339J", "M 341", "M 340L"],
+    "prereq_type": "Enforcer",
+    "title": "Actuarial Statistical Estimates.",
+    "id": "M *49P"
+}, {
+    "prereqs_desc": "Actuarial Foundations 329; Mathematics 339J or 339U with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Mathematics 339J, 339U, 339V, 349P (or 449P).",
+    "prereqs": ["ACF 329", "M 339J", "M 339U", "M 339J", "M 339U", "M 339V", "M 349P", "M 449P"],
+    "prereq_type": "Enforcer",
+    "title": "Seminar on Actuarial Practice.",
+    "id": "M 139S"
+}, {
+    "prereqs_desc": "Actuarial Foundations 329 and Mathematics 362K with a grade of at least C-.",
+    "prereqs": ["ACF 329", "M 362K"],
+    "prereq_type": "Enforcer",
+    "title": "Introduction to Financial Mathematics for Actuaries.",
+    "id": "M 339D"
+}, {
+    "prereqs_desc": "Mathematics 362K with a grade of at least C-; credit with a grade of at least C- or registration for Actuarial Foundations 329; and credit with a grade of at least C- or registration for Mathematics 340L or 341.",
+    "prereqs": ["M 362K", "ACF 329", "M 340L", "M 341"],
+    "prereq_type": "Enforcer",
+    "title": "Actuarial Contingent Payments I.",
+    "id": "M 339U"
+}, {
+    "prereqs_desc": "Mathematics 339D with a grade of at least C-.",
+    "prereqs": ["M 339D"],
+    "prereq_type": "Enforcer",
+    "title": "Financial Mathematics for Actuarial Applications.",
+    "id": "M 339W"
+}, {
+    "prereqs_desc": "Mathematics 358K or 378K with a grade of at least C-, or an introductory statistics course and consent of the director of the concentration in actuarial studies.",
+    "prereqs": ["M 358K", "M 378K"],
+    "prereq_type": "Enforcer",
+    "title": "Applied Regression and Time Series.",
+    "id": "M 349R"
+}, {
+    "prereqs_desc": "For computer science majors, the following coursework with a grade of at least C-: Mathematics 408C, 408K, or 408N, or registration for Mathematics 408C; for others, consent of instructor.",
+    "prereqs": ["M 408C", "M 408K", "M 408N", "M 408C"],
+    "prereq_type": "Informer",
+    "title": "Discrete Mathematics for Computer Science: Honors.",
+    "id": "C S 311H"
+}, {
+    "prereqs_desc": "Credit with a grade of at least C- or registration for Mathematics 408C, 408K, or 408N.",
+    "prereqs": ["M 408C", "M 408K", "M 408N"],
+    "prereq_type": "Informer",
+    "title": "Introduction to Programming.",
+    "id": "C S 312"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 303E and 313E, or Computer Science 307, 312, 312H, 314, 314H, 315, or 315H; Electrical Engineering 322C or 422C; Mathematics 408D, 408M, or 427L; and credit with a grade of at least C- or registration for Mathematics 340L, 341, or Statistics and Scientific Computation 329C.",
+    "prereqs": ["C S 303E", "C S 313E", "C S 307", "C S 312", "C S 312H", "C S 314", "C S 314H", "C S 315", "C S 315H", "E E 322C", "E E 422C", "M 408D", "M 408M", "M 427L", "M 340L", "M 341", "SDS 329C"],
+    "prereq_type": "Informer",
+    "title": "Elements of Scientific Computing.",
+    "id": "C S 323E"
+}, {
+    "prereqs_desc": "Computer Science 373 with a grade of at least C-; and credit with a grade of at least C- or registration for Computer Science 347 or 375.",
+    "prereqs": ["C S 373", "C S 347", "C S 375"],
+    "prereq_type": "Informer",
+    "title": "Software Design.",
+    "id": "C S 373S"
+}, {
+    "prereqs_desc": "Computer Science 310, 310H, 429, or 429H with a grade of at least C-.",
+    "prereqs": ["C S 310", "C S 310H", "C S 429", "C S 429H"],
+    "prereq_type": "Enforcer",
+    "title": "Technical Writing.",
+    "id": "C S *34"
+}, {
+    "prereqs_desc": "Computer Sciences 307, 313E, 314, 314H, or Electrical Engineering 422C (or 322C), with a grade of at least C-.",
+    "prereqs": ["C S 307", "C S 313E", "C S 314", "C S 314H", "E E 422C", "E E 322C"],
+    "prereq_type": "Enforcer",
+    "title": "Computer Programming.",
+    "id": "C S 105"
+}, {
+    "prereqs_desc": "Computer Science 307, 313E, 314, 314H, or Electrical Engineering 422C (or 322C), with a grade of at least C-.",
+    "prereqs": ["C S 307", "C S 313E", "C S 314", "C S 314H", "E E 422C", "E E 322C"],
+    "prereq_type": "Enforcer",
+    "title": "Software Systems.",
+    "id": "C S 108"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C- in each: Computer Science 312 or 312H; and Mathematics 408C, 408K, or 408N, or registration for Mathematics 408C.",
+    "prereqs": ["C S 312", "C S 312H", "M 408C", "M 408K", "M 408N", "M 408C"],
+    "prereq_type": "Enforcer",
+    "title": "Discrete Mathematics for Computer Science.",
+    "id": "C S 311"
+}, {
+    "prereqs_desc": "Computer Science 303E, 305J, 312, or 312H with a grade of at least C-.",
+    "prereqs": ["C S 303E", "C S 305J", "C S 312", "C S 312H"],
+    "prereq_type": "Enforcer",
+    "title": "Elements of Software Design.",
+    "id": "C S 313E"
+}, {
+    "prereqs_desc": "Computer Science 312 or 312H with a grade of at least C-.",
+    "prereqs": ["C S 312", "C S 312H"],
+    "prereq_type": "Enforcer",
+    "title": "Data Structures.",
+    "id": "C S 314"
+}, {
+    "prereqs_desc": "One of the following with a  grade of at least C-: Computer Science 303E, 305J, 307, 312, 312H, 314, 314H, 315, 315H, Electrical Engineering 322C, or 422C.",
+    "prereqs": ["C S 303E", "C S 305J", "C S 307", "C S 312", "C S 312H", "C S 314", "C S 314H", "C S 315", "C S 315H", "E E 322C", "E E 422C"],
+    "prereq_type": "Enforcer",
+    "title": "Elements of Graphics and Visualization.",
+    "id": "C S 324E"
+}, {
+    "prereqs_desc": "One of the following with a grade of at least C-: Computer Science 303E, 305J, 307, 312, 312H, 314, 314H, 315, 315H, Electrical Engineering 322C, or 422C.",
+    "prereqs": ["C S 303E", "C S 305J", "C S 307", "C S 312", "C S 312H", "C S 314", "C S 314H", "C S 315", "C S 315H", "E E 322C", "E E 422C"],
+    "prereq_type": "Enforcer",
+    "title": "Elements of Networking.",
+    "id": "C S 326E"
+}, {
+    "prereqs_desc": "One of the following with a grade of at least C-: Computer Science 303E, 305J, 307, 312, 312H, 314, 314H, 315, 315H, Electrical Engineering 322C, or 422C.",
+    "prereqs": ["C S 303E", "C S 305J", "C S 307", "C S 312", "C S 312H", "C S 314", "C S 314H", "C S 315", "C S 315H", "E E 322C", "E E 422C"],
+    "prereq_type": "Enforcer",
+    "title": "Elements of Databases.",
+    "id": "C S 327E"
+}, {
+    "prereqs_desc": "Computer Science 303E with a grade of at least C-.",
+    "prereqs": ["C S 303E"],
+    "prereq_type": "Enforcer",
+    "title": "Topics in Elements of Computing.",
+    "id": "C S 328E"
+}, {
+    "prereqs_desc": "Computer Science 313E with a grade of at least C-.",
+    "prereqs": ["C S 313E"],
+    "prereq_type": "Enforcer",
+    "title": "Advanced Topics in Elements of Computing.",
+    "id": "C S 329E"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C- in each: Computer Science 311, 311H, 313H, or 313K; 307, 314, 314H, 315, or 315H; 310, 310H, 429, or 429H; and consent of the undergraduate adviser.",
+    "prereqs": ["C S 311", "C S 311H", "C S 313H", "C S 313K", "C S 307", "C S 314", "C S 314H", "C S 315", "C S 315H", "C S 310", "C S 310H", "C S 429", "C S 429H"],
+    "prereq_type": "Enforcer",
+    "title": "Cooperative Computer Science.",
+    "id": "C S 329W"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); Mathematics 362K or Statistics and Data Sciences 321 (or Statistics and Scientific Computation 321); and credit with a grade of at least C- or registration for: Mathematics 340L, 341, or Statistics and Data Sciences 329C (or Statistics and Scientific Computation 329C).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321", "M 340L", "M 341", "SDS 329C", "SDS 329C"],
+    "prereq_type": "Enforcer",
+    "title": "Algorithms and Complexity.",
+    "id": "C S 331"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); Mathematics 362K or Statistics and Data Sciences 321 (or Statistics and Scientific Computation 321); and credit with a grade of at least C- or registration for: Mathematics 340L, 341, or Statistics and Data Sciences 329C (or Statistics and Scientific Computation 329C).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321", "M 340L", "M 341", "SDS 329C", "SDS 329C"],
+    "prereq_type": "Enforcer",
+    "title": "Algorithms and Complexity: Honors.",
+    "id": "C S 331H"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); and 331 (or 357), 331H (or 357H), 341, or 341H.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331", "C S 357", "C S 331H", "C S 357H", "C S 341", "C S 341H"],
+    "prereq_type": "Enforcer",
+    "title": "Theory in Programming Practice.",
+    "id": "C S 337"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); and 331 (or 357), 331H (or 357H), 341, or 341H.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331", "C S 357", "C S 331H", "C S 357H", "C S 341", "C S 341H"],
+    "prereq_type": "Enforcer",
+    "title": "Theory in Programming Practice: Honors.",
+    "id": "C S 337H"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Debugging & Verifying Programs.",
+    "id": "C S 340D"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Automata Theory.",
+    "id": "C S 341"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Neural Networks.",
+    "id": "C S 342"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C- in each: Computer Science 429 (or 310) or 429H (or 310H); and Mathematics 362K or Statistics and Data Sciences 321 (or Statistics and Scientific Computation 321).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321"],
+    "prereq_type": "Enforcer",
+    "title": "Computational Brain.",
+    "id": "C S 342C"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C- in each: Computer Science 429 (or 310) or 429H (or 310H); and Mathematics 362K or Statistics and Data Sciences 321 (or Statistics and Scientific Computation 321).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321"],
+    "prereq_type": "Enforcer",
+    "title": "Artificial Intelligence.",
+    "id": "C S 343"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C- in each: Computer Science 429 (or 310) or 429H (or 310H); and Mathematics 362K or Statistics and Data Sciences 321 (or Statistics and Scientific Computation 321).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321"],
+    "prereq_type": "Enforcer",
+    "title": "Autonomous Multiagent Systems.",
+    "id": "C S 344M"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C- in each: Computer Science 429 (or 310) or 429H (or 310H); and Mathematics 362K or Statistics and Data Sciences 321 (or Statistics and Scientific Computation 321).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321"],
+    "prereq_type": "Enforcer",
+    "title": "Robotics.",
+    "id": "C S 344R"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Programming Languages.",
+    "id": "C S 345"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (310H); 331 (or 357), 331H (or 357H), 341, or 341H; and credit with a grade of at least C- or registration for: Mathematics 340L, 341, or Statistics and Data Sciences 329C (or Statistics and Scientific Computation 329C).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331", "C S 357", "C S 331H", "C S 357H", "C S 341", "C S 341H", "M 340L", "341", "SDS 329C", "SDS 329C"],
+    "prereq_type": "Enforcer",
+    "title": "Cryptography.",
+    "id": "C S 346"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Data Management.",
+    "id": "C S 347"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Contemporary Issues in Computer Science.",
+    "id": "C S 349"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Advanced Computer Architecture.",
+    "id": "C S 350C"
+}, {
+    "prereqs_desc": "Computer Science 439 (or 352 or 372) or 439H (or 352H or 372H) with a grade of at least C-.",
+    "prereqs": ["C S 439", "C S 352", "C S 372", "C S 439H", "C S 352H", "C S 372H"],
+    "prereq_type": "Enforcer",
+    "title": "Operating Systems.",
+    "id": "C S 350F"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "LISP and Symbolic Computation.",
+    "id": "C S 351"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); and Computer Science 331 (or 357), 331H (or 357H), 341, or 341H.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331 357", "331H 357H", "341", "341H"],
+    "prereq_type": "Enforcer",
+    "title": "Theory of Computation.",
+    "id": "C S 353"
+}, {
+    "prereqs_desc": "Computer Science 439 (or 372) or 439H (or 372H) with a grade of at least C-.",
+    "prereqs": ["C S 439", "C S 372", "C S 439H", "C S 372H"],
+    "prereq_type": "Enforcer",
+    "title": "Computer Networks.",
+    "id": "C S 356"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Introduction to Wireless Networks.",
+    "id": "C S 356R"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Introduction to Computer Security.",
+    "id": "C S 361"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Information Assurance and Security.",
+    "id": "C S 361C"
+}, {
+    "prereqs_desc": "Computer Science 439 (or 352 or 372) or 439H (or 352H or 372H) with a grade of at least C-.",
+    "prereqs": ["C S 439", "C S 352", "C S 372", "C S 439H", "C S 352H", "C S 372H"],
+    "prereq_type": "Enforcer",
+    "title": "Network Security and Privacy.",
+    "id": "C S 361S"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); Mathematics 362K or Statistics and Data Sciences 321 (or Statistics and Scientific Computation 321); and Mathematics 340L, 341, or Statistics and Data Sciences 329C (or Statistics and Scientific Computation 329C).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321", "M 340L", "M 341", "SDS 329C", "SDS 329C"],
+    "prereq_type": "Enforcer",
+    "title": "Introduction to Data Mining.",
+    "id": "C S 363D"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); Mathematics 408D, 408M, or 427L; and Mathematics 340L, 341, or Statistics and Data Sciences 329C (or Statistics and Scientific Computation 329C).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 408D", "M 408M", "M 427L", "M 340L", "M 341", "SDS 329C", "SDS 329C"],
+    "prereq_type": "Enforcer",
+    "title": "Numerical Methods.",
+    "id": "C S 367"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); and Mathematics 362K or Statistics and Data Sciences 321 (or Statistics Scientific Computation 321).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "M 362K", "SDS 321", "SDS 321"],
+    "prereq_type": "Enforcer",
+    "title": "Systems Modeling.",
+    "id": "C S 369"
+}, {
+    "prereqs_desc": "Computer Science 439 (or 372) or 439H (or 372H) with a grade of at least C-.",
+    "prereqs": ["C S 439", "C S 372", "C S 439H", "C S 372H"],
+    "prereq_type": "Enforcer",
+    "title": "Distributed Computing.",
+    "id": "C S 371D"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Generic Programming and the STL.",
+    "id": "C S 371G"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-; and credit with a grade of at least C- or registration for Computer Science 439 (or 352 or 372) or 439H (or 352H or 372H).",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 439", "C S 352", "C S 372", "C S 439H", "C S 352H", "C S 372H"],
+    "prereq_type": "Enforcer",
+    "title": "Mobile Computing.",
+    "id": "C S 371M"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Object-Oriented Programming.",
+    "id": "C S 371P"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Information Retrieval and Web Search.",
+    "id": "C S 371R"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Object-Oriented Software Engineering.",
+    "id": "C S 371S"
+}, {
+    "prereqs_desc": "Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.",
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H"],
+    "prereq_type": "Enforcer",
+    "title": "Software Engineering.",
+    "id": "C S 373"
+}]

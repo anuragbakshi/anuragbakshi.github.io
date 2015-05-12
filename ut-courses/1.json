@@ -1,0 +1,25 @@
+[{
+    "prereqs_desc": "For computer science majors, the following coursework with a grade of at least C-: Mathematics 408C, 408K, or 408N, or registration for Mathematics 408C; for others, consent of instructor.",
+    "prereqs": ["M 408C", "M 408K", "M 408N", "M 408C"],
+    "prereq_type": "Informer",
+    "title": "Discrete Mathematics for Computer Science: Honors.",
+    "id": "C S 311H"
+}, {
+    "prereqs_desc": "Credit with a grade of at least C- or registration for Mathematics 408C, 408K, or 408N.",
+    "prereqs": ["M 408C", "M 408K", "M 408N"],
+    "prereq_type": "Informer",
+    "title": "Introduction to Programming.",
+    "id": "C S 312"
+}, {
+    "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 303E and 313E, or Computer Science 307, 312, 312H, 314, 314H, 315, or 315H; Electrical Engineering 322C or 422C; Mathematics 408D, 408M, or 427L; and credit with a grade of at least C- or registration for Mathematics 340L, 341, or Statistics and Scientific Computation 329C.",
+    "prereqs": ["C S 303E", "C S 313E", "C S 307", "C S 312", "C S 312H", "C S 314", "C S 314H", "C S 315", "C S 315H", "E E 322C", "E E 422C", "M 408D", "M 408M", "M 427L", "M 340L", "M 341", "SDS 329C"],
+    "prereq_type": "Informer",
+    "title": "Elements of Scientific Computing.",
+    "id": "C S 323E"
+}, {
+    "prereqs_desc": "Computer Science 373 with a grade of at least C-; and credit with a grade of at least C- or registration for Computer Science 347 or 375.",
+    "prereqs": ["C S 373", "C S 347", "C S 375"],
+    "prereq_type": "Informer",
+    "title": "Software Design.",
+    "id": "C S 373S"
+}]

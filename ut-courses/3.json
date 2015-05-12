@@ -1,0 +1,49 @@
+[{
+    "prereqs_desc": "Mathematics 358K or 378K with a grade of at least C-.",
+    "prereqs": ["M 358K", "M 378K"],
+    "prereq_type": "Enforcer",
+    "title": "Probability Models with Actuarial Applications.",
+    "id": "M *39J"
+}, {
+    "prereqs_desc": "Actuarial Foundations 329 and Mathematics 339U with a grade of at least C- in each.",
+    "prereqs": ["ACF 329", "M 339U"],
+    "prereq_type": "Enforcer",
+    "title": "Actuarial Contingent Payments II.",
+    "id": "M *39V"
+}, {
+    "prereqs_desc": "Mathematics 339J, and 341 or 340L, with a grade of at least C- in each.",
+    "prereqs": ["M 339J", "M 341", "M 340L"],
+    "prereq_type": "Enforcer",
+    "title": "Actuarial Statistical Estimates.",
+    "id": "M *49P"
+}, {
+    "prereqs_desc": "Actuarial Foundations 329; Mathematics 339J or 339U with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Mathematics 339J, 339U, 339V, 349P (or 449P).",
+    "prereqs": ["ACF 329", "M 339J", "M 339U", "M 339J", "M 339U", "M 339V", "M 349P", "M 449P"],
+    "prereq_type": "Enforcer",
+    "title": "Seminar on Actuarial Practice.",
+    "id": "M 139S"
+}, {
+    "prereqs_desc": "Actuarial Foundations 329 and Mathematics 362K with a grade of at least C-.",
+    "prereqs": ["ACF 329", "M 362K"],
+    "prereq_type": "Enforcer",
+    "title": "Introduction to Financial Mathematics for Actuaries.",
+    "id": "M 339D"
+}, {
+    "prereqs_desc": "Mathematics 362K with a grade of at least C-; credit with a grade of at least C- or registration for Actuarial Foundations 329; and credit with a grade of at least C- or registration for Mathematics 340L or 341.",
+    "prereqs": ["M 362K", "ACF 329", "M 340L", "M 341"],
+    "prereq_type": "Enforcer",
+    "title": "Actuarial Contingent Payments I.",
+    "id": "M 339U"
+}, {
+    "prereqs_desc": "Mathematics 339D with a grade of at least C-.",
+    "prereqs": ["M 339D"],
+    "prereq_type": "Enforcer",
+    "title": "Financial Mathematics for Actuarial Applications.",
+    "id": "M 339W"
+}, {
+    "prereqs_desc": "Mathematics 358K or 378K with a grade of at least C-, or an introductory statistics course and consent of the director of the concentration in actuarial studies.",
+    "prereqs": ["M 358K", "M 378K"],
+    "prereq_type": "Enforcer",
+    "title": "Applied Regression and Time Series.",
+    "id": "M 349R"
+}]
