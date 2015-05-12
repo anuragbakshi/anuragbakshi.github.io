@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mandelbrot</title>
+
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="https://rawgithub.com/toji/gl-matrix/master/dist/gl-matrix.js"></script>
+		<script type="text/javascript" src="https://rawgithub.com/html5rocks/www.html5rocks.com/master/content/tutorials/webgl/webgl_orthographic_3d/static/webgl/resources/webgl-utils.js"></script>
+
+		<script type="text/javascript" src="http://coffeescript.org/extras/coffee-script.js"></script>
+
+		<style type="text/css">
+			* {
+				margin: 0px;
+				padding: 0px;
+			}
+
+			#main-canvas {
+				position: fixed;
+				cursor: crosshair;
+			}
+
+			#drag-box {
+				position: fixed;
+				display: none;
+				pointer-events: none;
+
+				border: 1px solid white;
+			}
+		</style>
+	</head>
+
+	<body>
+		<canvas id="main-canvas"></canvas>
+		<div id="drag-box"></div>
+	</body>
+
+	<!-- Tiny script to make canvas fill screen. -->
+	<script type="text/javascript">
+		var canvas = $('#main-canvas');
+
+		canvas.attr('width', $(window).width());
+		canvas.attr('height', $(window).height());
+	</script>
+
+	<!-- // <script type="text/javascript" src="mandelbrot.js"></script> -->
+	<script type="text/coffeescript" src="mandelbrot.coffee"></script>
+</html>

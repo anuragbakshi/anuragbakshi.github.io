@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Webcam</title>
+
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+		<script type="text/javascript" src="../libs/objecttracker/color-space-util.js"></script>
+		<script type="text/javascript" src="../libs/objecttracker/object-tracker.js"></script>
+		<script type="text/javascript" src="../libs/objecttracker/point.js"></script>
+
+		<style type="text/css">
+			#main-canvas {
+				/*position: absolute;*/
+			}
+
+			#main-video {
+				display: none;
+			}
+		</style>
+	</head>
+
+	<body>
+		<canvas id="main-canvas" resize></canvas>
+		<video id="main-video" autoplay></video>
+	</body>
+
+	<script type="text/javascript" src="webcam.js" canvas="main-canvas"></script>
+</html>

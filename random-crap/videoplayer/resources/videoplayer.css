@@ -1,0 +1,184 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.video-player {
+	display: inline-block;
+
+	font-family: "Helvetica Neue", sans-serif;
+
+	-webkit-user-select: none; /* webkit (safari, chrome) browsers */
+	-moz-user-select: none; /* mozilla browsers */
+	-khtml-user-select: none; /* webkit (konqueror) browsers */
+	-ms-user-select: none; /* IE10+ */
+}
+
+.video {
+	z-index: -10000;
+}
+
+.video-controls {
+	background-color: #1B1B1B;
+	/*padding: 6px;*/
+	color: white;
+}
+
+.video-progress-bar {
+	z-index: 1000000;
+	margin-top: -3px;
+	height: 5px;
+
+	background-color: #444444;
+}
+
+.current-video-progress {
+	background-color: #CC181E;
+
+	width: 0;
+	height: 100%;
+}
+
+.video-control-element {
+	display: inline-block;
+	padding: 6px 8px;
+
+	font-size: 10pt;
+	color: gray;
+}
+
+.play-button {
+	padding: 0 16px;
+}
+
+.current-progress {
+	color: white;
+}
+
+/* Tipsy */
+.tipsy {
+	font-size: 8pt;
+	position: absolute;
+	z-index: 100000;
+	padding: 5px;
+}
+
+/* Rounded corners */
+.tipsy-inner {
+	background-color: black;
+	color: white;
+	max-width: 200px;
+	text-align: center;
+	/*border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;*/
+	padding: 5px 8px 4px;
+}
+
+/* Uncomment for shadow */
+/*.tipsy-inner {
+	box-shadow: 0 0 5px black;
+	-webkit-box-shadow: 0 0 5px black;
+	-moz-box-shadow: 0 0 5px black;
+}*/
+
+.tipsy-arrow {
+	position: absolute;
+	width: 0;
+	height: 0;
+	line-height: 0;
+	border: 5px dashed black;
+}
+
+/* Rules to colour arrows */
+.tipsy-arrow-n {
+	border-bottom-color: black;
+}
+
+.tipsy-arrow-s {
+	border-top-color: black;
+}
+
+.tipsy-arrow-e {
+	border-left-color: black;
+}
+
+.tipsy-arrow-w {
+	border-right-color: black;
+}
+
+.tipsy-n .tipsy-arrow {
+	top: 0;
+	left: 50%;
+	margin-left: -5px;
+	border-bottom-style: solid;
+	border-top: none;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+
+.tipsy-nw .tipsy-arrow {
+	top: 0;
+	left: 10px;
+	border-bottom-style: solid;
+	border-top: none;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+
+.tipsy-ne .tipsy-arrow {
+	top: 0;
+	right: 10px;
+	border-bottom-style: solid;
+	border-top: none;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+
+.tipsy-s .tipsy-arrow {
+	bottom: 0;
+	left: 50%;
+	margin-left: -5px;
+	border-top-style: solid;
+	border-bottom: none;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+
+.tipsy-sw .tipsy-arrow {
+	bottom: 0;
+	left: 10px;
+	border-top-style: solid;
+	border-bottom: none;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+
+.tipsy-se .tipsy-arrow {
+	bottom: 0;
+	right: 10px;
+	border-top-style: solid;
+	border-bottom: none;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+
+.tipsy-e .tipsy-arrow {
+	right: 0;
+	top: 50%;
+	margin-top: -5px;
+	border-left-style: solid;
+	border-right: none;
+	border-top-color: transparent;
+	border-bottom-color: transparent;
+}
+
+.tipsy-w .tipsy-arrow {
+	left: 0;
+	top: 50%;
+	margin-top: -5px;
+	border-right-style: solid;
+	border-left: none;
+	border-top-color: transparent;
+	border-bottom-color: transparent;
+}

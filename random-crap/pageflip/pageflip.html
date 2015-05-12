@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Flip Animation</title>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="http://code.createjs.com/createjs-2013.05.14.min.js"></script>
+
+		<style type="text/css">
+			* {
+				margin: 0px;
+				padding: 0px;
+			}
+
+			#main-canvas {
+				position: fixed;
+			}
+		</style>
+	</head>
+
+	<body>
+		<canvas id="main-canvas"></canvas>
+	</body>
+
+	<script>
+		var canvas = $('#main-canvas');
+
+		canvas.attr('width', $(window).width());
+		canvas.attr('height', $(window).height());
+	</script>
+
+	<script src="pageflip.js"></script>
+</html>
