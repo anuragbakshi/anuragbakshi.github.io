@@ -6,16 +6,28 @@ body {
 	padding: 0;
 }
 
-.link {
+path.link {
 	fill: none;
 	stroke: #666;
 	stroke-width: 1.5px;
 }
 
-circle {
+path.link.implicit-selected {
+	stroke: #0f0;
+}
+
+circle.node {
 	fill: #ccc;
 	stroke: #333;
 	stroke-width: 1.5px;
+}
+
+circle.node.hover-selected {
+	fill: #f00;
+}
+
+circle.node.implicit-selected {
+	fill: #00f;
 }
 
 text {

@@ -88,6 +88,9 @@
 # Compute the distinct nodes from the links.
 # Use elliptical arc path segments to doubly-encode directionality.
 
+window.SPACE_REGEX = ///\s///g
+window.UNDERSCORE_REGEX = ///_///g
+
 tick = ->
 	path.attr "d", linkArc
 	circle.attr "transform", transform
@@ -184,6 +187,8 @@ initializeGraph = (data) ->
 		.data force.nodes()
 		.enter()
 		.append "circle"
+		.attr "class", "node"
+		.attr "id", (d) -> "node-#{d.id.replace SPACE_REGEX, "_"}"
 		.attr "r", 5
 		.call force.drag
 
@@ -196,5 +201,11 @@ initializeGraph = (data) ->
 		.attr "x", 8
 		.attr "y", ".31em"
 		.text (d) -> d.title
+
+	$("circle.node").on "mouseover", ->
+		$this = $ @
+		node = courses[$this.attr("id")[5..].replace(UNDERSCORE_REGEX, " ")]
+		for p in node.prereqs
+			console.log $("#node-#{p.replace(SPACE_REGEX, "_")}").addClass "implicit-selected"
 
 $.getJSON "ut_courses.json", initializeGraph

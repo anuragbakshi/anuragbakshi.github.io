@@ -396,7 +396,7 @@
     "id": "C S 345"
 }, {
     "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (310H); 331 (or 357), 331H (or 357H), 341, or 341H; and credit with a grade of at least C- or registration for: Mathematics 340L, 341, or Statistics and Data Sciences 329C (or Statistics and Scientific Computation 329C).",
-    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331", "C S 357", "C S 331H", "C S 357H", "C S 341", "C S 341H", "M 340L", "341", "SDS 329C", "SDS 329C"],
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331", "C S 357", "C S 331H", "C S 357H", "C S 341", "C S 341H", "M 340L", "M 341", "SDS 329C", "SDS 329C"],
     "prereq_type": "Enforcer",
     "title": "Cryptography.",
     "id": "C S 346"
@@ -432,7 +432,7 @@
     "id": "C S 351"
 }, {
     "prereqs_desc": "The following coursework with a grade of at least C-: Computer Science 429 (or 310) or 429H (or 310H); and Computer Science 331 (or 357), 331H (or 357H), 341, or 341H.",
-    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331 357", "331H 357H", "341", "341H"],
+    "prereqs": ["C S 429", "C S 310", "C S 429H", "C S 310H", "C S 331 357", "331H 357H", "M 341", "M 341H"],
     "prereq_type": "Enforcer",
     "title": "Theory of Computation.",
     "id": "C S 353"
